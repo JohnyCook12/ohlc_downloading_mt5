@@ -1,2 +1,4 @@
-# ohlc_downloading_mt5
-Script for realtime downloading OHLC data + saving to DB
+# ohlc_downloading
+
+Script downloading OHLC data from all symbols we use by MT5. Saves it to DB.
+Runs in intervals.
